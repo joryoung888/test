@@ -33,5 +33,5 @@ class Database:
 
 
 db = Database()
-db.register("zhang", '123')
+db.register("zhang", '678')
 db.close()
