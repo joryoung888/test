@@ -33,5 +33,5 @@ class Database:
 
 
 db = Database()
-db.register("github", '7777')
+db.register("zhuzhi", '7777')
 db.close()
